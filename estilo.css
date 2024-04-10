@@ -1,0 +1,24 @@
+.contenedor{
+    font-size: 2rem;
+    color: teal;
+    align-content: center;
+
+}
+body{
+    width: 680px;
+    height: 1024px;
+}
+.contenedor-1{
+    font-size: 1rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    align-content: normal;
+}
+h2{
+    font-size: 2rem;
+    color: aquamarine;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    align-content: normal;
+}
+footer{
+    align-items: end;
+}
